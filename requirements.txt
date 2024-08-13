@@ -1,0 +1,6 @@
+torch
+transformers
+gtts
+pygame
+PyQt5
+sacremoses
